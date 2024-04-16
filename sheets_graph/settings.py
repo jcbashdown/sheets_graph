@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'graphene_django',
-    'sheets_api.apps.SheetsApiConfig',
+    'apps.sheets_api.apps.SheetsApiConfig',
 ]
 
 MIDDLEWARE = [

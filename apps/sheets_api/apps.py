@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class SheetsApiConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'sheets_api'
+    name = 'apps.sheets_api'

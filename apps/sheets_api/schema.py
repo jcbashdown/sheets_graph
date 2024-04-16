@@ -56,3 +56,4 @@ schema = graphene.Schema(query=Query, mutation=Mutation)
 # Package this
 # Write readme
 # Link to recipe from form somehow? Use service for recipe logic
+# Add auth
